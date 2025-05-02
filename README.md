@@ -21,9 +21,9 @@ I'm a passionate web developer who recently transitioned into tech. After comple
   <tr>
     <td align="center"> 
         <h3>🌟 My Latest Project</h3>
-        <a href="https://levanttechnologies.co.ke/">
-            <img src="img/Levant.png" alt="Levant Technologies Website Screenshot" width="200px">
-            <br>Levant Technologies Website
+        <a href="https://github.com/muhindinewton/Smart-Budget-Tracker">
+            <img src="img/Latest_Project.png" alt="Smart Project Tracker Screenshot" width="200px">
+            <br>Smart Project Tracker
         </a>
     </td>
     <td align="center">
