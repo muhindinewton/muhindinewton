@@ -22,7 +22,7 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     <td align="center"> 
         <h3>🌟 My Latest Project</h3>
         <a href="https://github.com/muhindinewton/Smart-Budget-Tracker">
-            <img src="img/Latest_Project.png" alt="Smart Project Tracker Screenshot" width="200px">
+            <img src="img/Latest-Project.png" alt="Smart Project Tracker Screenshot" width="200px">
             <br>Smart Project Tracker
         </a>
     </td>
