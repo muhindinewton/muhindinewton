@@ -9,22 +9,38 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     <td align="center">
         <h3>💫 Fun Facts</h3>
         <p>☕️ <strong>JavaScript</strong> was the first programming language I learned!</p>
-        <p>When I'm not coding, I love graphic design and swimming.</p>
+        <p>🎨 When I'm not coding, I love graphic design and swimming.</p>
+        <p>🌍 I'm passionate about building solutions that simplify business logistics and improve customer experiences.</p>
         <br/>
     </td>
     <td align="center">
         <h3>💻 Languages & Tools</h3>
-        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,emotion,js,ts,react,vercel,vscode,git,github&perline=4">
+        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,python,figma,git,github&perline=4">
     </td>
   </tr>
-
+  <tr>
+    <td align="center"> 
+        <h3>🌟 My Latest Project</h3>
+        <a href="https://levanttechnologies.co.ke/">
+            <img src="img/Levant.png" alt="Levant Technologies Website Screenshot" width="200px">
+            <br>Levant Technologies Website
+        </a>
+    </td>
+    <td align="center">
+        <h3>📚 My Favorite Tech Resources</h3>
+        <a href="https://www.freecodecamp.org/">
+            <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp logo" width="120px">
+            <br>FreeCodeCamp: Learn to code for free!
+        </a>
+    </td>
+   </tr> 
    <tr>
     <td>
         <h3 style="text-align: center" align="center" valign="top">📖 Currently Learning</h3><br>
         <ul>
-            <li>Backend Development with <strong>Python</strong> </li>
+            <li>Backend Development with <strong>Python</strong></li>
             <li><strong>Figma</strong> to create beautiful UI/UX designs</li>
-
+            <li>Expanding my JavaScript and React skills</li>
         </ul>
     </td>
     <td align="center">
