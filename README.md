@@ -46,7 +46,7 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     <td align="center">
         <h3>👷🏾‍♀️ Currently Building</h3>
         <img src="img/Levant.png" width="200px">
-        <p>I'm currently building an <a href="https://levanttechnologies.co.ke/">Levant Technologies website</a> and I'll use JavaScript to program it!</p> 
+        <p>I'm currently building an <a href="https://levanttechnologies.co.ke/">Levant Technologies website</a> and It is a Wordpress website</p> 
     </td>
   </tr>
   <tr>
