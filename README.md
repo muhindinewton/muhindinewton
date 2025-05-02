@@ -15,7 +15,7 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     </td>
     <td align="center">
         <h3>💻 Languages & Tools</h3>
-        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,python,figma,git,github&perline=4">
+        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,figma,git,github&perline=4">
     </td>
   </tr>
   <tr>
@@ -28,9 +28,9 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     </td>
     <td align="center">
         <h3>📚 My Favorite Tech Resources</h3>
-        <a href="https://www.freecodecamp.org/">
-            <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freeCodeCamp logo" width="120px">
-            <br>FreeCodeCamp: Learn to code for free!
+        <a href="https://www.youtube.com/@BroCodez">
+            <img src="https://yt3.googleusercontent.com/ytc/AOPolaQwqvW8lV4eE5r4o4VQh8x7u2i8gM9eZl8KjK6U=s176-c-k-c0x00ffffff-no-rj" alt="Bro Code logo" width="120px">
+            <br>Bro Code Tutorials
         </a>
     </td>
    </tr> 
