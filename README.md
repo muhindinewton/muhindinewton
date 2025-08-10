@@ -37,9 +37,9 @@ A Fullstack Developer and UI/UX Designer who loves turning ideas into smooth, cl
     <td>
         <h3 style="text-align: center" align="center" valign="top">📖 Currently Learning</h3><br>
         <ul>
-            <li>Backend Development with <strong>Python</strong></li>
-            <li><strong>Figma</strong> to create beautiful UI/UX designs</li>
-            <li>Expanding my JavaScript and React skills</li>
+            <li><strong>DevOps</strong>strong> principles to streamline my deployment processes</li>
+            <li> Advanced<strong>Figma</strong> skills</li>
+            <li>Data Structures and Algorithms</li>
         </ul>
     </td>
     <td align="center">
