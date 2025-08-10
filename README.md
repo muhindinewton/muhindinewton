@@ -1,8 +1,7 @@
 ![Levant Github Banner](img/Github-Header.png)
 
-# 👋🏾 Hey, I'm Muhindi!
-
-I'm a passionate web developer who recently transitioned into tech. After completing a front-end development course at Moringa School, I’ve built strong skills in HTML, CSS, JavaScript, React, and WordPress. I’m now diving into back-end development to become a Fullstack Web Developer. I’m driven to create user-focused web solutions that improve business processes and customer experiences. Open to collaboration, mentorship, and internship opportunities—let’s connect!
+# Hey, I'm Newton Muhindi!
+A Fullstack Developer and UI/UX Designer who loves turning ideas into smooth, clickable, “wow-that’s-nice” kind of experiences. From pixel-perfect layouts to rock-solid backends, I make sure your app not only works — it feels right.
 
 <table>
   <tr>
@@ -15,7 +14,7 @@ I'm a passionate web developer who recently transitioned into tech. After comple
     </td>
     <td align="center">
         <h3>💻 Languages & Tools</h3>
-        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,figma,git,github&perline=4">
+        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,postgresql,sqlite,wordpress,figma,git,github,&perline=4">
     </td>
   </tr>
   <tr>
